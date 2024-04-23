@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 45px;
+    width: 100%;
+    margin-top: 0px;
+}
+#start{
+    font-size: large;
+    width: 100px;
+}
+#num{
+    font-size: large;
+    width: 150px;
+}
+#status{
+    font-size: large;
+    width: 250px;
+}
+.footer{
+    bottom: 0;
+    position: fixed;
+    color:black;
+    background-color: white;
+    font-size: 10px;
+    width: 8.5%;
+    line-height: 2;
+}
+canvas{
+    border-width: 5px;
+    border-color: black;
+    border-style:solid ;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+}
